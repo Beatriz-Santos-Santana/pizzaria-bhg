@@ -1,0 +1,33 @@
+
+##Protótipo Telas PI
+
+
+# Tela 1
+
+! [tela de inicial](/TELA INICIAL.png)
+
+
+# Tela 2
+
+! [tela de login](/TELA DE LOGIN.png)
+
+
+# Tela 3
+
+! [controle de pedidos](/CONTROLE DE PEDIDOS.png)
+
+
+# Tela 4
+
+! [cardapio](/CARDAPIO.png)
+
+
+# Tela 5
+
+! [confirmacao pedidos](/CONFIRMACAO PEDIDO.png)
+
+
+
+
+
+
