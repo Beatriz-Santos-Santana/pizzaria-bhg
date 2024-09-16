@@ -4,27 +4,27 @@
 
 # Tela 1
 
-! [tela de inicial](/TELA INICIAL.png)
+! [tela de inicial](/TELA INICIAL.PNG)
 
 
 # Tela 2
 
-! [tela de login](/TELA DE LOGIN.png)
+! [tela de login](/TELA DE LOGIN.PNG)
 
 
 # Tela 3
 
-! [controle de pedidos](/CONTROLE DE PEDIDOS.png)
+! [controle de pedidos](/CONTROLE DE PEDIDOS.PNG)
 
 
 # Tela 4
 
-! [cardapio](/CARDAPIO.png)
+! [cardapio](/CARDAPIO.PNG)
 
 
 # Tela 5
 
-! [confirmacao pedidos](/CONFIRMACAO PEDIDO.png)
+! [confirmacao pedidos](/CONFIRMACAO PEDIDO.PNG)
 
 
 
