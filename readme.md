@@ -38,3 +38,35 @@ Usuário:
 
 - Atualização de pedidos (será feita atualização pelos funcionários)
 
+
+
+
+
+##Protótipo Telas PI
+
+
+# Tela 1
+
+! [tela de inicial](/TELA INICIAL.PNG)
+
+
+# Tela 2
+
+! [tela de login](/TELA DE LOGIN.PNG)
+
+
+# Tela 3
+
+! [controle de pedidos](/CONTROLE DE PEDIDOS.PNG)
+
+
+# Tela 4
+
+! [cardapio](/CARDAPIO.PNG)
+
+
+# Tela 5
+
+! [confirmacao pedidos](/CONFIRMACAO PEDIDO.PNG)
+
+
