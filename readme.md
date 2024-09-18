@@ -69,4 +69,19 @@ Usuário:
 
 ! [confirmacao pedidos](/imagens/Confirmacao_Pedido.png)
 
+# Tela 6 
+
+![forma de pagamento](/imagens/Forma_de_Pagamento.png)
+
+# Tela 7
+
+![confirmacao endereço](/imagens/Confirmacao_Endereco.png)
+
+# Tela 8 
+
+![tela de cadastro](/imagens/Tela_de_Cadastro.png)
+
+# Tela 9
+
+![meus pedidos](/imagens/Meus_Pedidos.png)
 
