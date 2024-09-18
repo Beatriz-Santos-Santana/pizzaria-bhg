@@ -47,27 +47,27 @@ Usuário:
 
 # Tela 1
 
-! [tela de inicial](/imagens/Tela_Inicial.png)
+![tela de inicial](/imagens/Tela_Inicial.png)
 
 
 # Tela 2
 
-! [tela de login](/imagens/Tela_de_Login.png)
+![tela de login](/imagens/Tela_de_Login.png)
 
 
 # Tela 3
 
-! [controle de pedidos](/imagens/Controle_de_Pedidos.png)
+![controle de pedidos](/imagens/Controle_de_Pedidos.png)
 
 
 # Tela 4
 
-! [cardapio](/imagens/Cardapio.png)
+![cardapio](/imagens/Cardapio.png)
 
 
 # Tela 5
 
-! [confirmacao pedidos](/imagens/Confirmacao_Pedido.png)
+![confirmacao pedidos](/imagens/Confirmacao_Pedido.png)
 
 # Tela 6 
 
