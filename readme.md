@@ -85,3 +85,6 @@ Usuário:
 
 ![meus pedidos](/imagens/Meus_Pedidos.png)
 
+# Modelo entidade relacionamento
+
+![MER](/imagens/MER.jpg)
