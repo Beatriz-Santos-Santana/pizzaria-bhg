@@ -1,5 +1,7 @@
 Funcionalidades PI 17/09
 
+Nosso projeto tem como objetivo a apresentação de um sistema de pizzaria, chamada Pizzaria BHG, com a finalidade de obtermos a respectiva nota, para o PI do 3º semestre. 
+
 Tela Inicial:
 
 Home – tela que será utilizada tanto para o funcionário, quanto para o cliente, nela teremos:
@@ -227,3 +229,38 @@ As telas seguem uma paleta de cores com destaque para o vermelho (usado nas áre
 Responsividade: 
 
 O layout é flexível e se ajusta ao tamanho da tela, garantindo que as telas sejam amigáveis tanto em dispositivos móveis quanto em desktops. 
+
+
+#Scripts Tabelas
+
+TABELAS BANCO DE DADOS: 
+
+
+USR: 
+
+CREATE TABLE USR (ID INT PRIMARY KEY AUTO_INCREMENT, USERNAME VARCHAR(255), PASSWORD VARCHAR(255)); 
+
+
+INSERT INTO USR (USERNAME, PASSWORD) VALUES (‘pizzariabhg@gmail.com’, 'BHGpizzaria@@’); 
+
+ 
+
+CADASTRO: 
+
+
+CREATE TABLE CADASTRO(ID INT PRIMARY KEY AUTO_INCREMENT, NOME VARCHAR(255),EMAIL VARCHAR(255), SENHA VARCHAR(255), CEP VARCHAR(255), BAIRRO VARCHAR(255), RUA VARCHAR(255), NUM VARCHAR(255) ); 
+
+ 
+
+PEDIDO: 
+
+CREATE TABLE PEDIDO(ID INT PRIMARY KEY AUTO_INCREMENT, PEDIDO VARCHAR(255), QUANTIDADE VARCHAR(255), VALOR VARCHAR(255)); 
+
+ 
+
+ 
+
+ 
+
+ 
+
